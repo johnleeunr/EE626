@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: The intermediate directory (C:\Users\johnlee\source\repos\I2CGyo\I2CGyo\obj\ARM\Debug\) contains files shared from another project (I2CGyo.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Validating sources
+  Copying sources remotely to '169.254.43.10'
+  Validating architecture
+  Validating architecture
+  Starting remote build
+  Compiling sources:
+  main.cpp
+  Linking objects
+  I2CGyo.vcxproj -> C:\Users\johnlee\source\repos\I2CGyo\I2CGyo\bin\ARM\Debug\I2CGyro.out

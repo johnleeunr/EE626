@@ -1,0 +1,1 @@
+g++ -o "/home/pi/projects/EE626Rasp/bin/ARM/Debug/EE626Rasp.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /home/pi/projects/EE626Rasp/obj/ARM/Debug/main.o /home/pi/projects/EE626Rasp/obj/ARM/Debug/UNR_GPIO_BCM2711.o

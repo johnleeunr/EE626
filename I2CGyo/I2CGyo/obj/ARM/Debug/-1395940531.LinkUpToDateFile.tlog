@@ -1,0 +1,1 @@
+g++ -o "/home/pi/projects/I2CGyro/bin/ARM/Debug/I2CGyro.out" -Wl,--no-undefined -Wl,-z,relro -Wl,-z,now -Wl,-z,noexecstack /home/pi/projects/I2CGyro/obj/ARM/Debug/main.o
